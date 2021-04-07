@@ -1,0 +1,2 @@
+# Laravel
+Rendezvény promotáló alkalmazás
